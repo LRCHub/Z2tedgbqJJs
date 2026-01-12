@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "タマシイレボリューション (2013 Remastered Version)",
+  "base_artist": "Superfly",
+  "createdAt": "2026-01-12T10:07:52.699676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タマシイレボリューション",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/01_タマシイレボリューション_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タマシイレボリューション(Extended ver.) - Tamashii Revolution (Extended ver.)",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/02_タマシイレボリューション(Extended_ver.)_-_Tamashii_Revolution_(Extended_ver.)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タマシイレボリューション",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/03_タマシイレボリューション_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タマシイレボリューション - 2013 Remastered Version",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/04_タマシイレボリューション_-_2013_Remastered_Version_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "タマシイレボリューション (2013 Remastered Version) - Tamashii Revolution (2013 Remastered Version)",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/05_タマシイレボリューション_(2013_Remastered_Version)_-_Tamashii_Revolution_(2013_Remastered_Ve_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "タマシイレボリューション",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/06_タマシイレボリューション_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "タマシイレボリューション (カラオケ)",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/07_タマシイレボリューション_(カラオケ)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "タマシイレボリューション（Extended ver.）",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/08_タマシイレボリューション(Extended_ver.)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "”FIRE” Medley（タマシイレボリューション / 恋する瞳は美しい / Bi-Li-Li Emotion / Free Planet）",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/09_”FIRE”_Medley(タマシイレボリューション___恋する瞳は美しい___Bi-Li-Li_Emotion___Free_Planet)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "タマシイレボリューション - Tamashii Revolution",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/10_タマシイレボリューション_-_Tamashii_Revolution_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "タマシイレボリューション - Extended ver.",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/11_タマシイレボリューション_-_Extended_ver._Superfly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タマシイレボリューション",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_01_タマシイレボリューション_Superfly.txt"
+    }
+  ]
+}
